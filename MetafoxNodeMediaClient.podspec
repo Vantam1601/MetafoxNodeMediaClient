@@ -25,7 +25,7 @@ TODO: Add long description of the pod here.
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Vantam1601' => '39816672+Vantam1601@users.noreply.github.com' }
-  s.source           = { :git => 'https://github.com/Vantam1601/MetafoxNodeMediaClient.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/Vantam1601/MetafoxNodeMediaClient.git' }
   s.platforms    = { :ios => '12.4' }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
