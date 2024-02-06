@@ -1,6 +1,0 @@
-use_frameworks!
-target 'MetafoxNodeMediaClient_Tests' do
-  pod 'MetafoxNodeMediaClient', :path => '../'
-  
-  
-end
